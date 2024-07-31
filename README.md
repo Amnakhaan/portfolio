@@ -13,14 +13,13 @@
 Glaucoma Detection
 - opencv
 - python
-
 Timetable schedule sysytem
 - python
 - oop
-
 University Management System
 - C#
 - MS SQL
 
 ### Certifications
-Desktop Application Development C#
+- Desktop Application Development C#
+- AWS Multi-Tier VPC Architecture
