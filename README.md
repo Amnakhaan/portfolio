@@ -13,9 +13,11 @@
 Glaucoma Detection
 - opencv
 - python
+  
 Timetable schedule sysytem
 - python
 - oop
+  
 University Management System
 - C#
 - MS SQL
